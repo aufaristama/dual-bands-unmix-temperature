@@ -1,0 +1,20 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 1.000000, y resize factor: 1.000000.
+  [Sun Oct 01 09:24:56 2017]}
+samples = 360
+lines   = 223
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 3729
+y start = 1634
+map info = {UTM, 1.000, 1.000, 411825.000, 7200825.000, 3.0000000000e+001, 3.0000000000e+001, 28, North, WGS-84, units=Meters}
+coordinate system string = {PROJCS["UTM_Zone_28N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",-15.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+band names = {
+ ROI Resize (ROI Resize (Band 1:LC82170152014249LGN00_B10.TIF):NHWLI3)}
